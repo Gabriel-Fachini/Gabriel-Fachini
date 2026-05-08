@@ -87,13 +87,10 @@ Conversational agent simulating a medical receptionist for appointment schedulin
 ## GitHub Stats
 
 <div align="center">
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Fachini&theme=github_dark)](https://github.com/Gabriel-Fachini)
- 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Fachini&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Fachini&theme=github_dark" width="48%" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabriel-Fachini&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel-Fachini&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Fachini&theme=github_dark" width="32%" />
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gabriel-Fachini&theme=github-dark&hide_border=true)](https://github.com/Gabriel-Fachini)
- 
 </div>
 
 ---
