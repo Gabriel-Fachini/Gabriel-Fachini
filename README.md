@@ -97,6 +97,6 @@ Conversational agent simulating a medical receptionist for appointment schedulin
 
 ## Contact
 
-- 📧 **Email:** [gabrielfachini10@gmail.com](mailto:gabriel.fm.fachini@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/gabriel-fachini](https://linkedin.com/in/gabriel-fachini-dev) <!-- update if needed -->
+- 📧 **Email:** [gabriel.fm.fachini@gmail.com](mailto:gabriel.fm.fachini@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/gabriel-fachini](https://linkedin.com/in/gabriel-fachini-dev)
 - 🐙 **GitHub:** [github.com/Gabriel-Fachini](https://github.com/Gabriel-Fachini)
