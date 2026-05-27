@@ -12,7 +12,7 @@ I'm a fullstack engineer with 3+ years of professional experience across product
 
 My main stack is TypeScript end-to-end (React, Node.js, Fastify, Next.js), with Python for backend services and AI agents. I've shipped production LLM integrations including a Slack RAG assistant and a natural language analytics agent on BigQuery. I care about clean architecture, testability, and building things that actually work in production.
 
-Finishing a B.Sc. in Information Systems at USP (ICMC). Fluent in English.
+Finishing a B.Sc. in Information Systems at USP (ICMC).
 
 ---
 
